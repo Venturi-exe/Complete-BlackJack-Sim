@@ -1,8 +1,8 @@
-# The-Best-BlackJack-Simulator
+# Complete-BlackJack-Sim
 
 # ♠ Blackjack Trainer Pro
 
-> **The best blackjack simulator that has ever existed.**
+> **A somewhat complete blackjack sim**
 
 Blackjack Trainer Pro is a browser-based blackjack training suite.  
 Five integrated modes share a single chip economy and streak system.  
