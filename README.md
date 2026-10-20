@@ -1,10 +1,10 @@
 # Complete-BlackJack-Sim
 
-# ♠ Blackjack Trainer Pro
+# ♠ Blackjack Trainer
 
 > **A somewhat complete blackjack sim**
 
-Blackjack Trainer Pro is a browser-based blackjack training suite.  
+Blackjack Trainer is a browser-based blackjack training suite.  
 Five integrated modes share a single chip economy and streak system.  
 No account required.
 
